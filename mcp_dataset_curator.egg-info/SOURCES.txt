@@ -1,0 +1,8 @@
+pyproject.toml
+mcp_dataset_curator/__init__.py
+mcp_dataset_curator/server.py
+mcp_dataset_curator.egg-info/PKG-INFO
+mcp_dataset_curator.egg-info/SOURCES.txt
+mcp_dataset_curator.egg-info/dependency_links.txt
+mcp_dataset_curator.egg-info/requires.txt
+mcp_dataset_curator.egg-info/top_level.txt
